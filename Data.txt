@@ -1,0 +1,21 @@
+Intro to Data Analytics
+
+1. Excel Shared Data Analytics
+2. Python Big Data Analytics
+
+Python
+Library
+
+Tranlator
+Compile / Translator whole code 
+Interpretor 
+Assembler
+
+Anaconda per Prompt
+Python --version
+
+Create Folder
+Data Analytics Sec A
+
+CMD
+Jupyter notebook  (Save Filename.ipynb)

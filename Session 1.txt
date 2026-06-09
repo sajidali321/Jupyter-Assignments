@@ -1,0 +1,15 @@
+Programming:
+When you want computer to do any particular task for you then you write a program
+
+Syntax : The way how you write code
+
+Categories Of Programming :
+1) High Level Programming (Python , Java , C#, C Lang, C++)
+2) Low Level Programming ( Assembly Language )
+3) Machine Language ( 1 & 0 )      A = 1001101
+
+Translator:
+1) Compiler : Translates whole code at once
+2) Interpreter : It translates line by line and left to right
+3) Assembler : It is used to translate Assembly Language
+JawanPakistan@786
